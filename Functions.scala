@@ -1,5 +1,3 @@
-package Lectures.week1basics
-
 import scala.annotation.tailrec
 import scala.io.StdIn._
 
